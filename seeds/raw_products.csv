@@ -1,0 +1,9 @@
+id,name,category,unit_price,created_at
+1,T-shirt Basic,Vêtements,1999,2023-01-15
+2,Jean Slim,Vêtements,4999,2023-01-15
+3,Sneakers Runner,Chaussures,8999,2023-02-01
+4,Casquette Logo,Accessoires,1499,2023-02-10
+5,Veste Bomber,Vêtements,12999,2023-03-01
+6,Sac à dos Urban,Accessoires,3999,2023-03-15
+7,Montre Sport,Accessoires,7999,2023-04-01
+8,Polo Classic,Vêtements,2999,2023-04-20
