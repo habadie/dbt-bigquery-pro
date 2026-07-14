@@ -1,0 +1,31 @@
+
+target/
+dbt_packages/
+logs/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# dbt artifacts
+target/
+dbt_packages/
+logs/
+
+# dbt profiles (contient souvent des credentials)
+profiles.yml
+
+# Environment variables
+.env
+
+# OS files (macOS)
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
