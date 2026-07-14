@@ -2,4 +2,5 @@ version: 2
 
 models:
   - name: stg_customers
+  - name: stg_orders
 
